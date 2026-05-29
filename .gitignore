@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Archives / built packages
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+
+# Documents / large binaries
+*.pdf
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Sensitive runtime data (payment order tokens)
+keys/tbigrorders.json
