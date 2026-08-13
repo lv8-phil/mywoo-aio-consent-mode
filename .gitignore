@@ -16,6 +16,15 @@ ehthumbs.db
 # Logs
 *.log
 
+# Audit files
+*.md
+
+# Text files
+*.txt 
+
+# Claude files
+.claude/
+
 # Node
 node_modules/
 
